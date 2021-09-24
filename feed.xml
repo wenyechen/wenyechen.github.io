@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-09-24T15:49:44+08:00</updated><id>/feed.xml</id><title type="html">陈文烨</title><subtitle>Hydejack is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">无尽旅程</title><link href="/example/2020-07-05-withoutending/" rel="alternate" type="text/html" title="无尽旅程" /><published>2020-07-05T00:00:00+08:00</published><updated>2021-09-20T17:02:01+08:00</updated><id>/example/withoutending</id><content type="html" xml:base="/example/2020-07-05-withoutending/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-09-24T16:01:43+08:00</updated><id>/feed.xml</id><title type="html">陈文烨</title><subtitle>Hydejack is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">无尽旅程</title><link href="/fiction/2020-07-05-withoutending/" rel="alternate" type="text/html" title="无尽旅程" /><published>2020-07-05T00:00:00+08:00</published><updated>2021-09-20T17:02:01+08:00</updated><id>/fiction/withoutending</id><content type="html" xml:base="/fiction/2020-07-05-withoutending/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot; id=&quot;markdown-toc-1&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2&quot; id=&quot;markdown-toc-2&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#3&quot; id=&quot;markdown-toc-3&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
@@ -467,7 +467,7 @@
 
 &lt;p&gt;终有一天，我们会在记忆盒之外的世界相遇。&lt;/p&gt;
 
-&lt;p&gt;并且记得所有，我们应当记住的事，谁也无权抹去。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry><entry><title type="html">万物</title><link href="/example/2019-06-01-everything/" rel="alternate" type="text/html" title="万物" /><published>2019-06-01T00:00:00+08:00</published><updated>2021-09-20T16:44:00+08:00</updated><id>/example/everything</id><content type="html" xml:base="/example/2019-06-01-everything/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;并且记得所有，我们应当记住的事，谁也无权抹去。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry><entry><title type="html">万物</title><link href="/fiction/2019-06-01-everything/" rel="alternate" type="text/html" title="万物" /><published>2019-06-01T00:00:00+08:00</published><updated>2021-09-24T16:01:43+08:00</updated><id>/fiction/everything</id><content type="html" xml:base="/fiction/2019-06-01-everything/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot; id=&quot;markdown-toc-1&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2&quot; id=&quot;markdown-toc-2&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#3&quot; id=&quot;markdown-toc-3&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
@@ -799,7 +799,7 @@
 
 &lt;p&gt;　　和她分别之时，我用力地抱住了她，在她耳边说了最后一句话。&lt;/p&gt;
 
-&lt;p&gt;　　没什么，是句无关紧要的话。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry><entry><title type="html">舞台上的旗帜</title><link href="/example/2019-04-21-banneronthestage/" rel="alternate" type="text/html" title="舞台上的旗帜" /><published>2019-04-21T00:00:00+08:00</published><updated>2021-09-20T17:05:28+08:00</updated><id>/example/banneronthestage</id><content type="html" xml:base="/example/2019-04-21-banneronthestage/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;　　没什么，是句无关紧要的话。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry><entry><title type="html">舞台上的旗帜</title><link href="/fiction/2019-04-21-banneronthestage/" rel="alternate" type="text/html" title="舞台上的旗帜" /><published>2019-04-21T00:00:00+08:00</published><updated>2021-09-20T17:05:28+08:00</updated><id>/fiction/banneronthestage</id><content type="html" xml:base="/fiction/2019-04-21-banneronthestage/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot; id=&quot;markdown-toc-1&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2&quot; id=&quot;markdown-toc-2&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#3&quot; id=&quot;markdown-toc-3&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
@@ -1347,7 +1347,7 @@
 
 &lt;p&gt;船头竖着一面代表着半月岛的旗帜，迎着风飘扬。&lt;/p&gt;
 
-&lt;p&gt;真正的反击，开始了。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry><entry><title type="html">摆渡曲</title><link href="/example/2019-04-15-baiduqu/" rel="alternate" type="text/html" title="摆渡曲" /><published>2019-04-15T00:00:00+08:00</published><updated>2021-09-20T16:30:52+08:00</updated><id>/example/baiduqu</id><content type="html" xml:base="/example/2019-04-15-baiduqu/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;真正的反击，开始了。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry><entry><title type="html">摆渡曲</title><link href="/fiction/2019-04-15-baiduqu/" rel="alternate" type="text/html" title="摆渡曲" /><published>2019-04-15T00:00:00+08:00</published><updated>2021-09-20T16:30:52+08:00</updated><id>/fiction/baiduqu</id><content type="html" xml:base="/fiction/2019-04-15-baiduqu/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#一&quot; id=&quot;markdown-toc-一&quot;&gt;一&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#二&quot; id=&quot;markdown-toc-二&quot;&gt;二&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#三&quot; id=&quot;markdown-toc-三&quot;&gt;三&lt;/a&gt;&lt;/li&gt;
@@ -1703,7 +1703,7 @@
 
 &lt;p&gt;作为赔礼，与山赠送给我一张盘面上写着《摆渡曲》的光碟，难办的是，恐怕找不到机器来读取她了。&lt;/p&gt;
 
-&lt;p&gt;不过我得以从作曲署名中知晓了他过去的姓氏。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry><entry><title type="html">雨中火焰</title><link href="/example/2018-11-05-fireintherain/" rel="alternate" type="text/html" title="雨中火焰" /><published>2018-11-05T00:00:00+08:00</published><updated>2021-09-20T16:46:33+08:00</updated><id>/example/fireintherain</id><content type="html" xml:base="/example/2018-11-05-fireintherain/">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;不过我得以从作曲署名中知晓了他过去的姓氏。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry><entry><title type="html">雨中火焰</title><link href="/fiction/2018-11-05-fireintherain/" rel="alternate" type="text/html" title="雨中火焰" /><published>2018-11-05T00:00:00+08:00</published><updated>2021-09-20T16:46:33+08:00</updated><id>/fiction/fireintherain</id><content type="html" xml:base="/fiction/2018-11-05-fireintherain/">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#0&quot; id=&quot;markdown-toc-0&quot;&gt;0&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#1&quot; id=&quot;markdown-toc-1&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2&quot; id=&quot;markdown-toc-2&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
@@ -2236,7 +2236,7 @@
 
 &lt;p&gt;在雁渔巷附近新落成的美术馆将展出一场特别的摄影展——寄于物。展出的摄影作品全部取材于S城，亦真亦幻，亦新亦旧的元素同处于一个画面。那是已经消散了的蜷灵，它们的故事写在作品旁边的小字里。&lt;/p&gt;
 
-&lt;p&gt;放在最中心展出位置的作品显得不太搭调，主角并非是主题中的“物”，而是一个，在雨中燃烧着的少年。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry><entry><title type="html">姐姐</title><link href="/example/2018-07-12-sister/" rel="alternate" type="text/html" title="姐姐" /><published>2018-07-12T00:00:00+08:00</published><updated>2021-09-20T16:46:39+08:00</updated><id>/example/sister</id><content type="html" xml:base="/example/2018-07-12-sister/">&lt;p&gt;我在高中，总是不断地发现糟糕。&lt;/p&gt;
+&lt;p&gt;放在最中心展出位置的作品显得不太搭调，主角并非是主题中的“物”，而是一个，在雨中燃烧着的少年。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry><entry><title type="html">姐姐</title><link href="/fiction/2018-07-12-sister/" rel="alternate" type="text/html" title="姐姐" /><published>2018-07-12T00:00:00+08:00</published><updated>2021-09-24T16:01:13+08:00</updated><id>/fiction/sister</id><content type="html" xml:base="/fiction/2018-07-12-sister/">&lt;p&gt;我在高中，总是不断地发现糟糕。&lt;/p&gt;
 
 &lt;p&gt;我每发现一个新的糟糕，都要回家跟姐姐说。姐姐话不多，有时也不太理解我抛出的梗，但我还是喜欢向她诉说无法与其他人说的事。&lt;/p&gt;
 
@@ -2286,4 +2286,4 @@
 
 &lt;p&gt;最后一门英语考完，我和小伙伴结伴去玩耍，来接我们的老爸一路上在接朋友的问询电话并且约了好几天的饭。我坐在后座上，很想找姐姐说，怎么办啊，我又搞砸了。&lt;/p&gt;
 
-&lt;p&gt;我上课不专心，经常摸出手机看小说。忽有一天被人安利一篇古风小说，据说看完以后怅然若失。我点开看了两章，不想看下去，我不喜欢看古风。即使我没有看完，也觉得因自身原因错失一部可能的好作品而怅然若失。正如坐在后座上的我一般，因为我根本没有姐姐。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /></entry></feed>
+&lt;p&gt;我上课不专心，经常摸出手机看小说。忽有一天被人安利一篇古风小说，据说看完以后怅然若失。我点开看了两章，不想看下去，我不喜欢看古风。即使我没有看完，也觉得因自身原因错失一部可能的好作品而怅然若失。正如坐在后座上的我一般，因为我根本没有姐姐。&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="fiction" /></entry></feed>
